@@ -1,7 +1,9 @@
 #week1-getting-started
+
+
 ##What I Did:
--aws account created
--booked exam 28-05-2-25
+- aws account created
+- booked exam 28-05-2-25
 
 
 
